@@ -1,0 +1,29 @@
+{
+  "name": "keyboard-discovery",
+  "version": "1.0.0",
+  "description": "Discover ALSA Digital Keyboard connection port.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azaritech/keyboard-discovery.git"
+  },
+  "keywords": [
+    "alsa",
+    "aconnect",
+    "digital-keyboard",
+    "port",
+    "discovery"
+  ],
+  "author": "Nicolas Azari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azaritech/keyboard-discovery/issues"
+  },
+  "homepage": "https://github.com/azaritech/keyboard-discovery#readme"
+}
