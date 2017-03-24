@@ -1,6 +1,12 @@
 # keyboard-discovery
 Discover ALSA Digital Keyboard connection port.
 
+## Install
+
+```bash
+npm install keyboard-discovery
+```
+
 ## Usage example
 
 ```bash

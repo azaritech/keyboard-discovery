@@ -1,6 +1,6 @@
 {
   "name": "keyboard-discovery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Discover ALSA Digital Keyboard connection port.",
   "main": "lib/index.js",
   "directories": {
